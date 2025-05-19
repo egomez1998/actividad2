@@ -1,0 +1,5 @@
+101|Orgullo y Prejuicio|Jane Austen|Introducción a Orgullo y Prejuicio|Contenido completo de Orgullo y Prejuicio|9780141439518|Editorial Penguin Classics
+102|Moby Dick|Herman Melville|Prólogo de Moby Dick|Contenido completo de Moby Dick|9781503280786|Editorial Harper & Brothers
+103|Crimen y Castigo|Fiódor Dostoyevski|Prólogo de Crimen y Castigo|Contenido completo de Crimen y Castigo|9780140449136|Editorial Vintage
+104|El Gran Gatsby|F. Scott Fitzgerald|Prólogo de El Gran Gatsby|Contenido completo de El Gran Gatsby|9780743273565|Editorial Scribner
+105|Hamlet|William Shakespeare|Prólogo de Hamlet|Contenido completo de Hamlet|9780198328704|Editorial Oxford University Press
